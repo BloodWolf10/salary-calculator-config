@@ -1,15 +1,9 @@
 {
-
-  "year": 2026,
-  "thresholdAnnual": 1876614,
-  "band2StartAnnual": 6000000,
-  "payeRate1": 0.25,
-  "payeRate2": 0.30,
-  "nisRate": 0.03,
-  "nisCapAnnual": 5000000,
-  "nhtRate": 0.02,
-  "eduRate": 0.0225,
-  "updatedBy": "TAJ Technical Advisory",
-  "updatedAt": "2026-04-01"
-
+  "threshold": 1876614,
+  "rate1": 0.25,
+  "rate2": 0.3,
+  "nhf": 0.025,
+  "nis": 0.03,
+  "nht": 0.02,
+  "edu": 0.0225
 }
